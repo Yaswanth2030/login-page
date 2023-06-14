@@ -1,0 +1,51 @@
+body{
+    background-attachment: fixed ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lg{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 300px;
+    color: rgb(249, 249, 254);
+    border-radius: 10px;
+    box-shadow: #1f72c4;
+    background-image: url("lor.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 5px 5px 5px black;
+
+}
+.lg h1{
+    text-align: center;
+    margin-top: 10px;
+    color: aliceblue;
+}
+.lg label{
+    font-size: 20px;
+    margin-left: 10px;
+    color: aliceblue;
+
+}
+.lg input{
+    height: 40px;
+    width: 90%;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.lg button{
+    height: 40px;
+    width: 90%;
+    margin-left: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: #3a3f4f;
+    color: #9f9da7;
+}
+.lg input[type="submit"]{
+    background-color: #6db2f8;
+    color: #9f9da7;
+    margin-top: 20px;
+
+}

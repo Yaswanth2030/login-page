@@ -1,0 +1,25 @@
+.signin{
+    margin: auto;
+    height: 350px;
+    width:  200px;
+    margin-top: 70px;
+    color: whitesmoke;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.h1{
+    color: white;
+}
+button{
+    margin-left: -25px;
+}
+.signin input{
+       border-radius: 20px;
+}
+.signin button{
+    border-radius: 20px;
+}
